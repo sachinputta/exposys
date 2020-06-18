@@ -1,5 +1,4 @@
 # exposys
 
-To run the code 
-python3 Classification.py
+To run the code: python3 Classification.py
 
